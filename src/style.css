@@ -1,5 +1,12 @@
+@font-face {
+    font-family: 'montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/fonts/Montserrat-Regular.tff') format('truetype');
+}
+
 html {
-    font-family: montserrat;
+    font-family: 'montserrat';
 }
 
 section {
