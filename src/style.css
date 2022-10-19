@@ -2,7 +2,7 @@
     font-family: 'montserrat';
     font-style: normal;
     font-weight: 400;
-    src: url('/fonts/Montserrat-Regular.tff') format('truetype');
+    src: url('fonts/Montserrat-Regular.tff') format('truetype');
 }
 
 html {
